@@ -1,9 +1,8 @@
-# hound 🐶
-Hound is a simple and light tool for information gathering and capture exact GPS coordinates
-![image](https://user-images.githubusercontent.com/42796435/229538253-e0a9c811-60e4-4294-bd3b-8eb7621b51f5.png)
+# Cheater-King 🐶
+Hound is a simple and light tool for Multiple Phishing Method
 
-# What is Hound?
-<p>Hound is a tool that can remotely capture the exact GPS coordinates of a target device using a PHP server, and can also grab basic information about the system and ISP. This tool can be very helpful in information gathering. you can get following information of the target device</p>
+# What is Cheater-King?
+<p> a tool that can remotely capture the target photo, Facebook Phishing  and  exact GPS coordinates on a target device using a PHP server, and can also grab basic information about the system and ISP. This tool can be very helpful in information gathering. you can get following information of the target device</p>
 <ul>
   <li>Longitude</li>
   <li>Latitude</li>
@@ -15,12 +14,16 @@ Hound is a simple and light tool for information gathering and capture exact GPS
   <li>Public IP Address</li>
   <li>Browser Name</li>
   <li>ISP Information</li>
+  <li> Capture Photo</li>
+  <li> Capture Targets Facebook Details </li>
 </ul>
 
 ## Features
   <p>The tool offers a wide range of features and functionality, including:</p>
     <ul>
   <li>Capture Exact GPS Location</li>
+  <li> Capture Facebook information <li>
+    <li> Capture Photo From Targets <li>
   <li>Automated Data Collection</li>
    <li>User-friendly Interface</li>
 </ul>
@@ -36,7 +39,7 @@ Hound is a simple and light tool for information gathering and capture exact GPS
 </ul>
 
 ## Installing and requirements
-<p>This tool require PHP for webserver, wget & unzip for download and extract cloudflare. First run following command on your terminal</p>
+<p>This tool require PHP for webserver, wget & unzip for download and using Serveo for Worldwide Webserver access. First run following command on your terminal</p>
 
 ```
 apt-get -y install php unzip git wget
@@ -45,16 +48,9 @@ apt-get -y install php unzip git wget
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/techchipnet/hound
-cd hound
-bash hound.sh
-```
-## Change log:
-Version: 0.2: Remove Ngrok and update cloudflared tunnel
+git clone https://github.com/TigerMate69/Cheater-King.git
+cd Cheater-King
+bash Cheater-King.sh
 
-### Video Demo
-[![Hound Demo](https://img.youtube.com/vi/IiJRyVmITgI/0.jpg)](https://www.youtube.com/watch?v=IiJRyVmITgI)
-
-### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
-<p>Hound is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
-credit - Chatbot template : Masud Rana
+<p>Cheater-King is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
+credit - templates : TigerMate (Riyad Sheikh)
