@@ -39,7 +39,7 @@ Hound is a simple and light tool for Multiple Phishing Method
 </ul>
 
 ## Installing and requirements
-<p>This tool require PHP for webserver, wget & unzip for download and using Serveo for Worldwide Webserver access. First run following command on your terminal</p>
+<p>This tool require PHP for webserver, wget, unzip, ssh, figlet & lolcat  for download and using Serveo for Worldwide Webserver access. First run following command on your terminal</p>
 
 ```
 apt-get -y install php unzip git wget figlet
