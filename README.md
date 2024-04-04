@@ -42,7 +42,8 @@ Hound is a simple and light tool for Multiple Phishing Method
 <p>This tool require PHP for webserver, wget & unzip for download and using Serveo for Worldwide Webserver access. First run following command on your terminal</p>
 
 ```
-apt-get -y install php unzip git wget
+apt-get -y install php unzip git wget figlet
+pip3 install lolcat
 ```
 
 ## Installing (Kali Linux/Termux):
@@ -51,7 +52,8 @@ apt-get -y install php unzip git wget
 git clone https://github.com/TigerMate69/Cheater-King.git
 cd Cheater-King
 bash Cheater-King.sh
-## About :
+``` 
+## Notice:
 </ul>
 <p>Cheater-King is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 credit - templates : TigerMate (Riyad Sheikh) from bd</p> 
