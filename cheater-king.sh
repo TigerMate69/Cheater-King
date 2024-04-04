@@ -96,9 +96,9 @@ case $choice in
     1) 
         rm -rf index.html
         banner
-        hound
         dependencies
-        ;;
+        hound 
+    ;;
     2) 
  rm -rf index.html
  ln -s .picphish/picphish.sh trx_picphish 
