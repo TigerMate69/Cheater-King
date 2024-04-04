@@ -51,6 +51,7 @@ apt-get -y install php unzip git wget
 git clone https://github.com/TigerMate69/Cheater-King.git
 cd Cheater-King
 bash Cheater-King.sh
-
+## About :
+</ul>
 <p>Cheater-King is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
-credit - templates : TigerMate (Riyad Sheikh)
+credit - templates : TigerMate (Riyad Sheikh) from bd</p> 
