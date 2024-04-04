@@ -96,8 +96,8 @@ case $choice in
     1) 
         rm -rf index.html
         banner
-        dependencies
         hound
+        dependencies
         ;;
     2) 
  rm -rf index.html
