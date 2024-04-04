@@ -1,0 +1,47 @@
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36 
+Platform: Linux armv81 
+Cookies Enabled: true
+Browser Language: en-US
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 4
+CPU Cores: 8
+Screen Width: 557
+Screen Height: 1237
+Local Time: 9:58:56 AM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+User denied the Geolocation permision.
+
+Target IP Detail
+----------------
+IP: 103.161.104.46
+---------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 
+Platform: Win32 
+Cookies Enabled: true
+Browser Language: en-US
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 8
+CPU Cores: 4
+Screen Width: 1280
+Screen Height: 720
+Local Time: 10:27:18 PM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+Locatin Unavailable.
