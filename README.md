@@ -56,4 +56,4 @@ bash Cheater-King.sh
 ## Notice:
 </ul>
 <p>Cheater-King is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
-credit - templates : TigerMate (Riyad Sheikh) from bd</p> 
+credit - templates : TigerMate (Riyad Sheikh) from BD</p> 
