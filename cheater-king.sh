@@ -100,7 +100,7 @@ case $choice in
     ;;
     2) 
  cd .picphish
- bash picphish
+ bash picphish.sh
     
         ;;
 
