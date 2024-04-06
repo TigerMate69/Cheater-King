@@ -39,10 +39,12 @@ Hound is a simple and light tool for Multiple Phishing Method
 </ul>
 
 ## Installing and requirements
-<p>This tool require PHP for webserver, wget, unzip, ssh, figlet & lolcat  for download and using Serveo for Worldwide Webserver access. First run following command on your terminal</p>
+<p>This tool require PHP for webserver, wget, unzip, ssh, figlet & lolcat  for download and using Ngrok and Serveo for Access Webserver Worldwide. First run following command on your terminal then run installing commands. </p>
 
 ```
 apt-get -y install php unzip git wget figlet
+```
+```
 pip3 install lolcat
 ```
 
@@ -50,7 +52,11 @@ pip3 install lolcat
 
 ```
 git clone https://github.com/TigerMate69/Cheater-King.git
+```
+```
 cd Cheater-King
+```
+```
 bash Cheater-King.sh
 ``` 
 ## Notice:
