@@ -5,8 +5,7 @@
 
 
 trap 'printf "\n";stop' 2
-
-
+    
 # Function to run loc
 
 #banner 
@@ -100,10 +99,8 @@ case $choice in
         hound 
     ;;
     2) 
- rm -rf index.html
- ln -s .picphish/picphish.sh trx_picphish 
- chmod +x trx_picphish 
-         ./trx_picphish
+ cd .picphish
+ bash picphish
     
         ;;
 
